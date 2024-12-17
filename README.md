@@ -12,7 +12,7 @@ A method of enabling communication between two devices (or processes) over a net
 
 
 
-What is TCP connection?
+What is a TCP connection?
 
 
 
@@ -42,7 +42,7 @@ Communication Over TCP Overview:
 ----
 
 
-What is UDP connection?
+What is a UDP connection?
 
 
 
