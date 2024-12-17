@@ -2,7 +2,7 @@
 
 ----
 
-What is Socket Programming?
+# What is Socket Programming?
 
 
 A method of enabling communication between two devices (or processes) over a network. And socket simply is an endpoint of a devices.
@@ -10,7 +10,9 @@ A method of enabling communication between two devices (or processes) over a net
 ----
 
 
-What is TCP connection?
+# What is TCP connection?
+
+
 
 
 
@@ -26,6 +28,7 @@ What is TCP connection?
 
 
 
+
 Communication Over TCP Overview:
 
 
@@ -36,7 +39,9 @@ Communication Over TCP Overview:
 
 ----
 
-What is UDP connection?
+# What is UDP connection?
+
+
 
 
 -No handshake proccess, directly sending data and start a conversation
@@ -46,6 +51,9 @@ What is UDP connection?
 -Transport layer Protocol
 
 -fast speed but not a secure service
+
+
+
 
 
 
