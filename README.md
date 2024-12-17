@@ -27,7 +27,7 @@ What is TCP connection?
 -secure and efficient but slow transfer, no loss of packets
 
 
-
+##
 
 
 
@@ -57,7 +57,7 @@ What is UDP connection?
 
 
 
-
+##
 
 
 
