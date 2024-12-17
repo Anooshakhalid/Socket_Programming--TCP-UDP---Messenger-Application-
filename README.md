@@ -9,7 +9,10 @@ A method of enabling communication between two devices (or processes) over a net
 
 ----
 
+
 What is TCP connection?
+
+
 
 -handshake process must be necessary before building a connection
 
@@ -18,6 +21,9 @@ What is TCP connection?
 -Transport layer protocol
 
 -secure and efficient but slow transfer, no loss of packets
+
+
+
 
 
 Communication Over TCP Overview:
@@ -32,6 +38,7 @@ Communication Over TCP Overview:
 
 What is UDP connection?
 
+
 -No handshake proccess, directly sending data and start a conversation
 
 -data is sending to the destination or not, simply don't care
@@ -39,6 +46,8 @@ What is UDP connection?
 -Transport layer Protocol
 
 -fast speed but not a secure service
+
+
 
 
 Communcication Over UDP Overview:
