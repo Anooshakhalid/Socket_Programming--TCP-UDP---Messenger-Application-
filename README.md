@@ -24,7 +24,7 @@ What is a TCP connection?
 
 -Transport layer protocol
 
--secure and efficient but slow transfer, no loss of packets
+-secure and efficient but slow transfer, no packet loss
 
 
 ##
